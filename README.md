@@ -5,6 +5,6 @@ Criar uma interface web responsiva para gerenciamento acadêmico integrada à AP
 
 
 Elementos Principais:
-Formulário de Cadastro
-Tabela Dinâmica
+Formulário de Cadastro,
+Tabela Dinâmica e
 Feedback Visual
