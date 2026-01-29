@@ -68,14 +68,15 @@ Exemplo de payload enviado:
 ### ▶️ Como executar o projeto
 
 Clone o repositório:
-`
+
+´
 git clone https://github.com/seu-usuario/seu-repositorio.git
-`
+´
 
 Acesse a pasta do projeto:
-`
+´
 cd seu-repositorio
-`
+´
 
 Abra o arquivo index.html no navegador
 
